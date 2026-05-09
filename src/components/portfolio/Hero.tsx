@@ -81,7 +81,7 @@ export function Hero() {
 
           <div className="mt-8 flex flex-wrap gap-3">
             <a
-              href="/Mathura_Resume.docx"
+              href="/Mathura_Resume.pdf"
               download
               className="inline-flex items-center gap-2 px-6 py-3 rounded-xl bg-gradient-primary text-primary-foreground font-medium shadow-glow hover:scale-[1.03] active:scale-95 transition-transform"
             >
